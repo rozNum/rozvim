@@ -1,1 +1,3 @@
 # rozvim
+
+A Vim theme inspired by nord and gruvbox, to fuel the drive towards innovation one line of code at a time...
